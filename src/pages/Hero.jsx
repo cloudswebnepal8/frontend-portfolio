@@ -9,7 +9,7 @@ function Hero() {
       {/* left contents */}
       <div className='text-center w-full max-w-3xl m-10'>
         <h1 className='md:text-3xl text-xl uppercase font-bold text-green-500 text-center'>Ajay Kumar Shrestha</h1>
-        <h2 className='md:text-xl text-sm font-semibold p-3 text-green-500 text-center'>Full Stack Developer and Instructor</h2>
+        <h2 className='md:text-xl text-sm font-semibold p-3 text-green-500 text-center'>Full Stack Developer and Trainer</h2>
 
         <p className='text-sm p-4 text-justify text-green-500'>I design highly scalable and responsive web applications using MongoDB , Express , React and Nodejs.I have 2 years of experience of working as a Full Stack Developer and instructor in Clouds Web Nepal Pvt. Ltd.</p>
 
